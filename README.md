@@ -66,12 +66,6 @@ currently:  building projects, learning new languages, exploring engineering pri
 
 <br>
 
-## `> activity_log --graph`
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yxsnd&theme=synthwave&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF006E&point=8338EC" />
-</div>
-
 <br>
 
 ## `> contribution_snake --animate`
