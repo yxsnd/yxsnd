@@ -58,6 +58,32 @@ currently:  building projects, learning new languages, exploring engineering pri
 
 <br>
 
+## `> achievements --unlock`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</div>
+
+<br>
+
+## `> activity_log --graph`
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=synthwave&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF006E&point=8338EC" />
+</div>
+
+<br>
+
+## `> contribution_snake --animate`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<sub>⚠️ this one needs a one-time setup — see the note below the repo section</sub>
+
+<br>
+
 ## `> current_focus.log`
 
 ```diff
@@ -65,6 +91,28 @@ currently:  building projects, learning new languages, exploring engineering pri
 + diving deeper into cloud architecture & system design
 + always experimenting with something new in the stack
 ```
+
+<br>
+
+## `> featured_repos --pin`
+
+<div align="center">
+  <a href="https://github.com/YOUR_USERNAME/REPO_ONE">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=8AE6FF" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/REPO_TWO">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=8AE6FF" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/YOUR_USERNAME/REPO_THREE">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=8AE6FF" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/REPO_FOUR">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_FOUR&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=8AE6FF" />
+  </a>
+</div>
 
 <br>
 
