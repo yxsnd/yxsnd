@@ -1,14 +1,10 @@
-<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,12,14,19&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=50&fontColor=00F0FF&animation=twinkling&fontAlignY=40" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=yxsnd.exe;failed_project_graveyard;connected_from_toronto" alt="Typing SVG" />
 </p>
 
-<!-- ASCII / TERMINAL WELCOME -->
-<div align="center">
-
 ```text
- ┌──[ root@cyber-deck ]─[~]
- ├── USER     :: [Your Name / Alias]
- ├── ROLE     :: Full-Stack Netrunner // Developer
- ├── STATUS   :: 🟢 Connected to the Grid
- └── LOCATION :: [Your Location or "The Matrix"]
+========================================================================
+SYSTEM STATUS : ACTIVE
+DIRECTORIES   : /brainflow  /colonist-tracker  /gen-ai
+LOCATION      : TORONTO, CA
+========================================================================
