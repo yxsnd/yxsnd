@@ -48,12 +48,12 @@ currently:  building projects, learning new languages, exploring engineering pri
 ## `> system_stats --render`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=8AE6FF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=8AE6FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yxsnd&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=8AE6FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsnd&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=8AE6FF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=synthwave&hide_border=true&background=0D1117&stroke=FF006E&ring=00F5FF&fire=8338EC&currStreakLabel=00F5FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yxsnd&theme=synthwave&hide_border=true&background=0D1117&stroke=FF006E&ring=00F5FF&fire=8338EC&currStreakLabel=00F5FF" />
 </div>
 
 <br>
@@ -61,7 +61,7 @@ currently:  building projects, learning new languages, exploring engineering pri
 ## `> achievements --unlock`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yxsnd&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </div>
 
 <br>
@@ -69,7 +69,7 @@ currently:  building projects, learning new languages, exploring engineering pri
 ## `> activity_log --graph`
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=synthwave&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF006E&point=8338EC" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yxsnd&theme=synthwave&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF006E&point=8338EC" />
 </div>
 
 <br>
@@ -77,7 +77,7 @@ currently:  building projects, learning new languages, exploring engineering pri
 ## `> contribution_snake --animate`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/yxsnd/yxsnd/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <sub>⚠️ this one needs a one-time setup — see the note below the repo section</sub>
@@ -97,20 +97,20 @@ currently:  building projects, learning new languages, exploring engineering pri
 ## `> featured_repos --pin`
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/REPO_ONE">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=8AE6FF" />
+  <a href="https://github.com/yxsnd/REPO_ONE">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yxsnd&repo=REPO_ONE&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=8AE6FF" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/REPO_TWO">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=8AE6FF" />
+  <a href="https://github.com/yxsnd/REPO_TWO">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yxsnd&repo=REPO_TWO&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=8AE6FF" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/REPO_THREE">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=8AE6FF" />
+  <a href="https://github.com/yxsnd/REPO_THREE">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yxsnd&repo=REPO_THREE&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=8AE6FF" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/REPO_FOUR">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_FOUR&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=8AE6FF" />
+  <a href="https://github.com/yxsnd/REPO_FOUR">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yxsnd&repo=REPO_FOUR&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=8AE6FF" />
   </a>
 </div>
 
