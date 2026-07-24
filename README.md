@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:8338EC,100:3A86FF&height=200&section=header&text=YASINDU%20DISSANAYAKE&fontSize=42&fontColor=00F5FF&fontAlignY=35&animation=fadeIn&desc=full-stack%20developer%20%7C%20freelance&descAlignY=55&descSize=18&descColor=FF00FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:8338EC,100:3A86FF&height=200&section=header&text=YASINDU%20DISSANAYAKE&fontSize=42&fontColor=00F5FF&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Building%20things%20that%20scale&descAlignY=55&descSize=18&descColor=FF00FF" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=%3E+whoami;freelance+full-stack+developer;building+with+java+%7C+python+%7C+react;based+in+the+terminal%2C+living+in+the+grid" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+turning+ideas+into+scalable+software;full-stack+engineer+%7C+java+%C2%B7+python+%C2%B7+react;building+clean%2C+reliable%2C+production-ready+code;always+shipping.+always+learning.;let%27s+build+something+great" alt="Typing SVG" />
 </a>
 
 </div>
