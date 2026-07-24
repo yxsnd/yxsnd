@@ -58,13 +58,19 @@ currently:  building projects, learning new languages, exploring engineering pri
 
 <br>
 
-## `> achievements --unlock`
+## `> activity_log --graph`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yxsnd&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yxsnd&theme=synthwave&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF006E&point=8338EC" />
 </div>
 
 <br>
+
+## `> sudo tell --joke`
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&font=Fira+Code" />
+</div>
 
 <br>
 
