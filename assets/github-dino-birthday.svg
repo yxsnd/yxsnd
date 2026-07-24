@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1805" height="678" viewBox="0 0 1805 678" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+  <title id="title">Birthday dinosaur runner</title>
+  <desc id="desc">A pixel-art dinosaur in a birthday hat runs through a monochrome desert with cacti, balloons, and a score of 00189.</desc>
+
+  <!-- Self-contained, script-free animation. If animation is stripped, the first frame remains complete. -->
+  <style>
+    :root { --ink:#535353; --pale:#e6e6e6; --blue:#55b7dc; --blue2:#8bd4ed; --pink:#f238d0; }
+    .world { animation: world-scroll 8s linear infinite; }
+    .runner { animation: runner-bob .34s steps(2,end) infinite; transform-origin: 78px 500px; }
+    .leg-a { animation: leg-a .34s steps(1,end) infinite; }
+    .leg-b { opacity:0; animation: leg-b .34s steps(1,end) infinite; }
+    .arm { animation: arm-swing .34s steps(2,end) infinite; transform-origin: 102px 478px; }
+    .hat { animation: hat-bob .68s steps(2,end) infinite; transform-origin: 92px 401px; }
+    .flame { animation: flame-flicker .22s steps(2,end) infinite; transform-origin: 91px 359px; }
+    .balloon-1 { animation: balloon-bob-1 2.4s ease-in-out infinite; }
+    .balloon-2 { animation: balloon-bob-2 2.9s ease-in-out infinite; }
+    .balloon-3 { animation: balloon-bob-3 2.1s ease-in-out infinite; }
+    .score { animation: score-pulse 2.6s steps(2,end) infinite; }
+
+    @keyframes world-scroll { from { transform:translateX(0); } to { transform:translateX(-1805px); } }
+    @keyframes runner-bob { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-5px); } }
+    @keyframes leg-a { 0%,49% { opacity:1; } 50%,100% { opacity:0; } }
+    @keyframes leg-b { 0%,49% { opacity:0; } 50%,100% { opacity:1; } }
+    @keyframes arm-swing { 0%,100% { transform:rotate(0deg); } 50% { transform:rotate(12deg); } }
+    @keyframes hat-bob { 0%,100% { transform:rotate(-1deg); } 50% { transform:rotate(2deg); } }
+    @keyframes flame-flicker { 0%,100% { transform:scale(1,1); } 50% { transform:scale(.72,1.18); } }
+    @keyframes balloon-bob-1 { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-10px); } }
+    @keyframes balloon-bob-2 { 0%,100% { transform:translateY(-3px); } 50% { transform:translateY(8px); } }
+    @keyframes balloon-bob-3 { 0%,100% { transform:translateY(3px); } 50% { transform:translateY(-7px); } }
+    @keyframes score-pulse { 0%,96%,100% { opacity:1; } 97%,99% { opacity:.76; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .world,.runner,.leg-a,.leg-b,.arm,.hat,.flame,.balloon-1,.balloon-2,.balloon-3,.score { animation:none !important; }
+      .leg-a { opacity:1; }
+      .leg-b { opacity:0; }
+    }
+  </style>
+
+  <rect width="1805" height="678" fill="#fff"/>
+
+  <!-- Fixed horizon -->
+  <path d="M0 533.5H1805" fill="none" stroke="#535353" stroke-width="4"/>
+
+  <!-- Repeating world, duplicated once for a seamless loop -->
+  <g class="world" fill="#535353">
+    <g>
+      <!-- ground texture -->
+      <g>
+        <path d="M41 551h6v4h-6zM131 548h10v4h-10zM164 556h7v4h-7zM239 546h5v4h-5zM251 548h9v4h-9zM302 547h12v4h-12zM337 553h5v4h-5zM350 542h12v4h-12zM394 556h4v4h-4zM508 546h13v4h-13zM562 556h12v4h-12zM630 542h15v4h-15zM658 548h5v4h-5zM730 548h11v4h-11zM831 551h8v4h-8zM854 556h15v4h-15zM898 556h5v4h-5zM936 547h11v4h-11zM1028 554h7v4h-7zM1080 551h6v4h-6zM1205 547h12v4h-12zM1230 556h8v4h-8zM1330 551h4v4h-4zM1363 557h12v4h-12zM1434 551h8v4h-8zM1487 547h5v4h-5zM1507 554h14v4h-14zM1598 556h5v4h-5zM1621 550h7v4h-7zM1676 552h9v4h-9zM1726 542h15v4h-15zM1758 550h7v4h-7zM1798 536h7v4h-7z"/>
+      </g>
+
+      <!-- cactus 1 -->
+      <g transform="translate(418 441)">
+        <rect x="19" y="0" width="18" height="119"/>
+        <rect x="0" y="32" width="11" height="47"/>
+        <rect x="0" y="62" width="24" height="11"/>
+        <rect x="42" y="17" width="11" height="53"/>
+        <rect x="31" y="58" width="22" height="11"/>
+      </g>
+
+      <!-- cactus cluster -->
+      <g transform="translate(1085 441)">
+        <rect x="19" y="0" width="18" height="119"/>
+        <rect x="0" y="32" width="11" height="47"/>
+        <rect x="0" y="62" width="24" height="11"/>
+        <rect x="42" y="17" width="11" height="53"/>
+        <rect x="31" y="58" width="22" height="11"/>
+
+        <rect x="80" y="0" width="18" height="119"/>
+        <rect x="61" y="15" width="11" height="56"/>
+        <rect x="61" y="60" width="24" height="11"/>
+        <rect x="103" y="18" width="11" height="54"/>
+        <rect x="92" y="61" width="22" height="11"/>
+      </g>
+
+      <!-- rock -->
+      <path d="M1649 532h10v-6h8v-7h21v5h9v8h57v5h7v8h-74v-4h-38z"/>
+
+      <!-- balloons -->
+      <g class="balloon-1" transform="translate(563 201)" fill="none" stroke="#e6e6e6" stroke-width="4">
+        <path d="M29 1h17l13 8 8 17v24l-10 17-11 5H29l-12-6-9-17V27l8-17z"/>
+        <path d="M34 71l-1 11 6 9-3 11 5 12-2 8"/>
+        <path d="M50 15l5 9v22" opacity=".75"/>
+      </g>
+      <g class="balloon-2" transform="translate(1007 176)" fill="none" stroke="#e6e6e6" stroke-width="4">
+        <path d="M27 1h20l13 8 8 17v24l-9 17-13 6H28l-12-7-8-16V28l8-18z"/>
+        <path d="M35 73l1 12 5 10-1 11 4 12-1 3"/>
+        <path d="M52 16l5 9v22" opacity=".75"/>
+      </g>
+      <g class="balloon-3" transform="translate(1287 211)" fill="none" stroke="#e6e6e6" stroke-width="4">
+        <path d="M28 1h18l13 8 8 17v24l-9 17-12 6H29l-12-7-8-16V28l8-18z"/>
+        <path d="M35 73l-1 11 6 9-2 12 5 10-1 9"/>
+        <path d="M51 15l5 9v22" opacity=".75"/>
+      </g>
+    </g>
+
+    <g transform="translate(1805 0)">
+      <!-- duplicated ground texture -->
+      <path d="M41 551h6v4h-6zM131 548h10v4h-10zM164 556h7v4h-7zM239 546h5v4h-5zM251 548h9v4h-9zM302 547h12v4h-12zM337 553h5v4h-5zM350 542h12v4h-12zM394 556h4v4h-4zM508 546h13v4h-13zM562 556h12v4h-12zM630 542h15v4h-15zM658 548h5v4h-5zM730 548h11v4h-11zM831 551h8v4h-8zM854 556h15v4h-15zM898 556h5v4h-5zM936 547h11v4h-11zM1028 554h7v4h-7zM1080 551h6v4h-6zM1205 547h12v4h-12zM1230 556h8v4h-8zM1330 551h4v4h-4zM1363 557h12v4h-12zM1434 551h8v4h-8zM1487 547h5v4h-5zM1507 554h14v4h-14zM1598 556h5v4h-5zM1621 550h7v4h-7zM1676 552h9v4h-9zM1726 542h15v4h-15zM1758 550h7v4h-7zM1798 536h7v4h-7z"/>
+      <g transform="translate(418 441)"><rect x="19" y="0" width="18" height="119"/><rect x="0" y="32" width="11" height="47"/><rect x="0" y="62" width="24" height="11"/><rect x="42" y="17" width="11" height="53"/><rect x="31" y="58" width="22" height="11"/></g>
+      <g transform="translate(1085 441)"><rect x="19" y="0" width="18" height="119"/><rect x="0" y="32" width="11" height="47"/><rect x="0" y="62" width="24" height="11"/><rect x="42" y="17" width="11" height="53"/><rect x="31" y="58" width="22" height="11"/><rect x="80" y="0" width="18" height="119"/><rect x="61" y="15" width="11" height="56"/><rect x="61" y="60" width="24" height="11"/><rect x="103" y="18" width="11" height="54"/><rect x="92" y="61" width="22" height="11"/></g>
+      <path d="M1649 532h10v-6h8v-7h21v5h9v8h57v5h7v8h-74v-4h-38z"/>
+      <g class="balloon-1" transform="translate(563 201)" fill="none" stroke="#e6e6e6" stroke-width="4"><path d="M29 1h17l13 8 8 17v24l-10 17-11 5H29l-12-6-9-17V27l8-17z"/><path d="M34 71l-1 11 6 9-3 11 5 12-2 8"/><path d="M50 15l5 9v22" opacity=".75"/></g>
+      <g class="balloon-2" transform="translate(1007 176)" fill="none" stroke="#e6e6e6" stroke-width="4"><path d="M27 1h20l13 8 8 17v24l-9 17-13 6H28l-12-7-8-16V28l8-18z"/><path d="M35 73l1 12 5 10-1 11 4 12-1 3"/><path d="M52 16l5 9v22" opacity=".75"/></g>
+      <g class="balloon-3" transform="translate(1287 211)" fill="none" stroke="#e6e6e6" stroke-width="4"><path d="M28 1h18l13 8 8 17v24l-9 17-12 6H29l-12-7-8-16V28l8-18z"/><path d="M35 73l-1 11 6 9-2 12 5 10-1 9"/><path d="M51 15l5 9v22" opacity=".75"/></g>
+    </g>
+  </g>
+
+  <!-- Runner -->
+  <g class="runner" fill="#535353">
+    <!-- tail and body -->
+    <path d="M0 455h7v14h12v12h16v10h16v-15h12v-20h10v-35h24v17h43v-36H98v-8H75v7H69v55H58v18H47v11H32v-8H19v-11H7v-11H0z"/>
+    <!-- belly/neck pixels -->
+    <rect x="67" y="438" width="29" height="68"/>
+    <rect x="50" y="481" width="29" height="54"/>
+    <!-- eye -->
+    <rect x="84" y="412" width="8" height="8" fill="#fff"/>
+    <!-- mouth cut -->
+    <rect x="111" y="438" width="30" height="5" fill="#fff"/>
+    <!-- arm -->
+    <g class="arm">
+      <rect x="96" y="469" width="18" height="9"/>
+      <rect x="96" y="478" width="10" height="20"/>
+      <rect x="105" y="477" width="11" height="7"/>
+    </g>
+
+    <!-- alternating legs -->
+    <g class="leg-a">
+      <rect x="45" y="519" width="17" height="31"/>
+      <rect x="45" y="547" width="29" height="9"/>
+      <rect x="71" y="519" width="15" height="20"/>
+      <rect x="71" y="535" width="24" height="8"/>
+    </g>
+    <g class="leg-b">
+      <rect x="45" y="519" width="17" height="20"/>
+      <rect x="34" y="535" width="28" height="8"/>
+      <rect x="71" y="519" width="15" height="31"/>
+      <rect x="71" y="547" width="29" height="9"/>
+    </g>
+
+    <!-- birthday hat -->
+    <g class="hat">
+      <path d="M76 401h32l-5-12H81z" fill="#55b7dc"/>
+      <path d="M80 389h24l-5-18H86z" fill="#8bd4ed"/>
+      <rect x="75" y="399" width="35" height="5" fill="#55b7dc"/>
+      <rect x="90" y="357" width="4" height="15" fill="#f238d0"/>
+      <g class="flame" fill="#f238d0">
+        <rect x="86" y="352" width="8" height="5"/>
+        <rect x="91" y="346" width="4" height="8"/>
+        <rect x="80" y="358" width="8" height="4"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- Score -->
+  <text class="score" x="1775" y="132" text-anchor="end" fill="#535353" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,Liberation Mono,monospace" font-size="54" font-weight="800" letter-spacing="4">00189</text>
+</svg>
