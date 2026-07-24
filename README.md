@@ -21,7 +21,7 @@ role:       Software Engineer
 status:     open to contribute to any project
 stack:      Java · Python · React · Spring Boot · Node.js · PostgreSQL · AWS/Azure
 background: HSBC · Layer 7 · Outlier · WealthSimple · VitalEdge
-currently:  building projects, learning new languages, exploring engineering princples
+currently:  building projects, learning new languages, exploring engineering principles
 ```
 
 <br>
@@ -61,9 +61,9 @@ currently:  building projects, learning new languages, exploring engineering pri
 ## `> current_focus.log`
 
 ```diff
-+ building a personal finance dashboard (React / Spring Boot / PostgreSQL / Docker / Azure)
-+ real-time strategy overlay for Colonist.io (Python, Flask, WebSockets)
-+ chasing full-stack roles, one commit at a time
++ shipping full-stack projects end to end
++ diving deeper into cloud architecture & system design
++ always experimenting with something new in the stack
 ```
 
 <br>
@@ -83,7 +83,7 @@ currently:  building projects, learning new languages, exploring engineering pri
 <div align="center">
 
 ```
-> off-duty: dogs, steak night, catan, lo-fi beats, and whatever DIY project isn't finished yet
+> connection terminated. thanks for stopping by.
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A86FF,50:8338EC,100:FF006E&height=100&section=footer" width="100%"/>
