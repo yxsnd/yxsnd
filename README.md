@@ -79,7 +79,7 @@ currently:  building projects, learning new languages, exploring engineering pri
 ## `> ./dino_run --start`
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/yxsnd/yxsnd/main/assets/dino-run.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/yxsnd/yxsnd/main/assets/github-dino-birthday.svg" />
 </div>
 
 <br>
